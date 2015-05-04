@@ -47,3 +47,4 @@ gem 'bootstrap-sass', '~> 3.3.4'
 gem 'twitter-bootswatch-rails', '~> 3.3.2'
 gem 'therubyracer'
 gem 'responders'
+gem 'rails_12factor', group: :production
